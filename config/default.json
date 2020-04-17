@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://rnavedojr:Comisionado1980@contactkeeper-ue10u.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}

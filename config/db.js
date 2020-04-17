@@ -11,7 +11,6 @@ const connectDB = async () => {
                 useCreateIndex: true,
                 useFindAndModify: false,
                 useUnifiedTopology: true,
-                NODE_ENV = "production"
             })
 
         console.log("MongoDB is now connected...")
